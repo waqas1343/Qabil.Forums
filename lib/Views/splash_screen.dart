@@ -2,8 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:qabilforums/Auth/loginScreens.dart';
 import 'package:qabilforums/controllers/splash_screen_controller.dart';
-import 'package:qabilforums/widgets/constants/qabil_app_colors.dart';
-import 'package:qabilforums/widgets/constants/qabil_app_images.dart';
+import 'package:qabilforums/constants/qabil_app_colors.dart';
+import 'package:qabilforums/constants/qabil_app_images.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
